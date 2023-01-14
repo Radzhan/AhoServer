@@ -1,0 +1,21 @@
+{
+  "name": "class-work-73",
+  "version": "1.0.0",
+  "description": "",
+  "main": "first.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node first.js",
+    "devFirst": "nodemon first.js",
+    "devSecond": "nodemon second.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "caesar-salad": "^2.1.0",
+    "express": "^4.18.2",
+    "git": "^0.1.5",
+    "nodemon": "^2.0.20"
+  }
+}
